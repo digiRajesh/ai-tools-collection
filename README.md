@@ -5,9 +5,9 @@
 
 A curated, actively maintained list of the best AI tools for productivity, development, and creativity.
 
-⭐ If you find this useful, please star the repo!
-
 > 🚀 Growing collection • 🤝 Open for contributions • 🔄 Regular updates
+
+⭐ If you find this useful, please star the repo!
 
 ---
 
