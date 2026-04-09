@@ -51,3 +51,9 @@ This repository helps developers and users discover useful AI tools in one place
 ## Contributions
 
 Contributions are welcome! Feel free to submit a pull request.
+
+## ⭐ Support
+
+If you find this repo useful, please consider giving it a ⭐ on GitHub!
+It helps more people discover these AI tools.
+
