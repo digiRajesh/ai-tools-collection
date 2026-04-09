@@ -3,11 +3,11 @@
 ![GitHub stars](https://img.shields.io/github/stars/digiRajesh/ai-tools-collection?style=social)
 ![Last Commit](https://img.shields.io/github/last-commit/digiRajesh/ai-tools-collection)
 
-A curated, actively maintained list of the best AI tools for productivity, development, and creativity.
+A curated, actively maintained list of the best AI tools for productivity, development, and creativity. ⭐ If you find this useful, please star the repo!
+
 
 > 🚀 Growing collection • 🤝 Open for contributions • 🔄 Regular updates
 
-⭐ If you find this useful, please star the repo!
 
 ---
 
@@ -124,7 +124,5 @@ We welcome contributions! Please check the CONTRIBUTING.md.
 ---
 
 ## ⭐ Support
-
-If this repo helped you, give it a ⭐ to support growth!
 
 If this repo helped you, give it a ⭐ to support growth!
