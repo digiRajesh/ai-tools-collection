@@ -1,5 +1,6 @@
 # Awesome AI Tools 🚀
 
+## 🚀 Growing list of AI tools (actively updated)
 A curated list of the best AI tools for productivity, development, and creativity.
 
 > ⭐ If you find this useful, please star the repo!
