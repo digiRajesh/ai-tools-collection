@@ -41,6 +41,7 @@ A curated, actively maintained list of the best AI tools for productivity, devel
 * Leonardo AI – Game assets & art
 * Playground AI – Free image generation
 * Ideogram – Text-to-image with typography
+* LandscapioAI – AI landscape design and outdoor space visualizer
 
 ## 🎬 Video Generation
 
