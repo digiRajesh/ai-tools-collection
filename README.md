@@ -49,6 +49,7 @@ A curated, actively maintained list of the best AI tools for productivity, devel
 * Synthesia – AI avatar videos
 * HeyGen – AI spokesperson videos
 * Luma AI – 3D & video generation
+* [videos.social](https://videos.social/?utm_source=digirajesh-ai-tools-collection&utm_medium=directory&utm_campaign=listing-wave-d) – Turn blogs, PDFs, and prompts into editable faceless videos
 
 ## 🎵 Music Generation
 
