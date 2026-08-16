@@ -100,6 +100,7 @@ A curated, actively maintained list of the best AI tools for productivity, devel
 
 ## 🔌 AI APIs
 
+* IdeaHunter – Demand-backed app and micro-SaaS idea research for solo founders
 * OpenAI API – GPT models
 * Anthropic API – Claude models
 * Cohere – NLP APIs
